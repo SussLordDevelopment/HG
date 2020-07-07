@@ -1,0 +1,3 @@
+displayName = The Health Gun
+author = Codeman
+version = 1.0
